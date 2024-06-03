@@ -18,7 +18,8 @@ If needed, we can employ the `pip install schedule` command to install the sched
 
 
 References: 
-https://gaurav-adarshi.medium.com/different-ways-to-schedule-tasks-in-python-45e03d5411ee 
-https://phoenixnap.com/kb/cron-job-windows
+ https://gaurav-adarshi.medium.com/different-ways-to-schedule-tasks-in-python-45e03d5411ee 
+ 
+ https://phoenixnap.com/kb/cron-job-windows
 
 
